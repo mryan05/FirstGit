@@ -1,0 +1,1 @@
+What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within a merge conflict)? HEAD is a reference to the last commit in the currently checked-out branch.
